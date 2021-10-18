@@ -14,6 +14,9 @@ You will love this midterm project!!
 ### text heading 3
 #### text heading 4
 ##### text heading 5 ✘
+Referencing footnote[^1] in the text.
+
+[^1]: Footnote headings
 ---
 ## I Love Infotechnology class
 ____
@@ -22,12 +25,18 @@ ____
 # Paragraph 1 - Python is very helpful for coding
 ## Paragraph 2 - HTML is great for reading texts
 ### Paragraph 3 - GitHub is great for making your own codes
+Referencing footnote[^2] in the text.
+
+[^2]: Footnote types of paragraphs
 _____
 
 # Texts:
 *Italic format*
 **Bold Format**
 ~~Strikethrough format!~~
+Referencing footnote[^3] in the text.
+
+[^3]: Footnote texts and formats
 
 # List
 + Go to INFOTC Classes
@@ -59,11 +68,20 @@ _____
 
 [python](https://python-markdown.github.io/extensions/footnotes/)
 
-Referencing footnote[^1] in the text.
+Referencing footnote[^4] in the text.
 
-[^1]: Footnote definitions
+[^4]: Footnote definitions
 
 
+
+### [Custom containers](https://github.com/markdown-it/markdown-it-container)
+```` 
+```
+Infotechnology is the best.
+```
+````
+
+ 
 
 
 
